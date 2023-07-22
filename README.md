@@ -62,14 +62,6 @@ Crie uma solicitação de pull.
 
 Alternativamente, consulte a documentação do GitHub sobre como criar uma solicitação pull.
 
-##🤝 Colaboradores
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
-Nome do Colaborador 1
-Nome do Colaborador 2
-Nome do Colaborador 3
-##😄 Seja um dos contribuidores
-Quer fazer parte desse projeto? Clique AQUI e leia como contribuir.
 
 ##📝 Licença
 Esse projeto está sob licença. Veja o arquivo LICENÇA para mais detalhes.
